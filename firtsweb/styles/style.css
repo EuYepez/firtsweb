@@ -1,0 +1,21 @@
+html {
+    font-size: 10px; /* px quiere decir 'pixeles': el tamano de la fuente base es ahora de 10 pixeles de altura*/
+    font-family: Tahoma; /*Este debe ser el resto del resultado que obtuviste de google fonts*/
+    background-color: #DEFFF3;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+h2{
+    font-size: 22px;
+    color: #718DFF;
+}
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+a:hover{
+    color:red;
+}
