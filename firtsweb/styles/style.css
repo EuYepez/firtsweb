@@ -1,6 +1,6 @@
 html {
     font-size: 10px; /* px quiere decir 'pixeles': el tamano de la fuente base es ahora de 10 pixeles de altura*/
-    font-family: Tahoma; /*Este debe ser el resto del resultado que obtuviste de google fonts*/
+    font-family: 'Play', sans-serif; /*Este debe ser el resto del resultado que obtuviste de google fonts*/
     background-color: #DEFFF3;
 }
 h1{
